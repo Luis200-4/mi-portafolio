@@ -1,0 +1,30 @@
+*{ 
+
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+#titulo{
+    text-align: center;
+
+
+}
+
+header{
+background-color: lightblue;
+height: 100px;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    border: solid 5px seashell;
+    background-color: seashell;
+    color: black;
+}
