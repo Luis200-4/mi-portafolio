@@ -149,7 +149,7 @@ border-radius:5px;
 padding: 4px;
 background: #58dc58;
 border:1px solid black;
-cursor:pointer
+cursor:pointer;
 
 }
 
@@ -158,6 +158,45 @@ cursor:pointer
 background-color:  #58dc58;
 touch-action: manipulation;
 border-color: white;
+
+
+}
+
+
+.tableta{
+align-items: center;
+width: 40%;
+text-align: center;
+margin: 30px;
+border: 1px solid #d9d9d9;
+border-radius: 5px;
+
+}
+
+.fotomia{
+
+    width: 300px;    
+    height: 330px;
+    
+    position: absolute;
+    right: 0;
+    background-color: seashell;
+    
+}
+
+#hojadevida{
+background-color: bisque;
+text-align: center;
+
+
+}
+
+.fotomia2{
+width: 300px;
+height: 330px;
+left: 0px;
+position: absolute;
+
 
 
 }
